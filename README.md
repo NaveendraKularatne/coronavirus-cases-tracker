@@ -1,6 +1,4 @@
 # coronavirus-cases-tracker
-This application tracks and reports the total number of cases reported all around the globe of the disease Coronavirus.
-
 This application tracks and reports the total number of cases reported all around the globe of this disease and there is a breakdown based on the state and the country.
 
 And we can check the total number of cases that are being reported so far from the beginning and then it also tracks the changes since the last day.
